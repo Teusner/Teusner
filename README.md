@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Teusner</h1>
 
-<!--
-**Teusner/Teusner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Hi there, come on in ! I'm Teusner a french robotics engineer graduated in 2021 from ENSTA Bretagne, a french graduate and post-graduate school, doctoral college and research center in Brest France.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+·<a href="https://github.com/Teusner/Resume/blob/english/cv/cv.pdf"> :gb: Resume </a>·<a href="https://github.com/Teusner/Resume/blob/french/cv/cv.pdf"> :fr: Resume </a>·
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/quentin-brt/"><img src="https://img.shields.io/badge/-Quentin%20Brateau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quentin-brt/" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Teusner"><img src="https://github-readme-stats.vercel.app/api?username=Teusner&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Teusner"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teusner&layout=compact&hide=jupyter%20notebook" /></a>
+</p>
+
+
+![Bottom Header](https://raw.githubusercontent.com/Teusner/Teusner/main/bottom_header.svg)
+<br>
+</p>
